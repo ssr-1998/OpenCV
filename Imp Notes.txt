@@ -1,6 +1,0 @@
-Notes related to OpenCV & Image Processing :-
-1. We all know that in a normal 2D Graph the +ve Y is pointing towards North & the +ve X is pointing towards East, but when it comes to Image the story changes.
-	Here, in Images the +ve X is still same i.e. pointing in East Direction but +ve Y points towards South Direction. This means that the Top-Left corner of the
-	Image is the (0,0) point or can say that it is the point where the Sum of X & Y is minimum. Also, the Bottom-Right point can be the point having highest Sum of
-	X & Y as that point is connected with the highest values of both X & Y axis. So, will have the highest Sum.
-	Other than this, the Top-Right & Bottom-Left corners will have the Smallest & Highest Difference of X & Y.
