@@ -10,7 +10,7 @@ In this OpenCV Repo,
 
 
 
-Files/Topics Covered here:
+# Files/Topics Covered here:
 
     Basic Introduction File - How to load image, shape of image, etc
 
